@@ -11,5 +11,5 @@
 
 
 ```package
-sensors=github:gigord2010/pxt-sensors
+sensors=github:gigotoys/gigo-block
 ```
