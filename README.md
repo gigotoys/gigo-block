@@ -1,7 +1,7 @@
 # sensors
 
 智高提供的積木方塊。
-Blocks provided by gigo。
+Blocks provided by Gigo。
 
 ## License
 
