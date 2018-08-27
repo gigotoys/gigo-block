@@ -1,7 +1,7 @@
 {
     "name": "sensors",
     "version": "0.0.2",
-    "description": "智高提供的積木方塊",
+    "description": "智高提供的積木方塊。Blocks provided by gigo。",
     "license": "MIT",
     "dependencies": {
         "core": "*"
