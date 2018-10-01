@@ -1,0 +1,4 @@
+{
+    "sensors|block": "工具",
+    "sensors.DDMmotor|block": "控制脚位选择 %McontrolPin|马达方向控制 0-1 %McontrolValue|速度脚位选择 %MSpeedPin|速度值选定 0~255 %MSpeedValue"
+}
