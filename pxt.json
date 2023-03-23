@@ -1,6 +1,6 @@
 {
     "name": "sensors",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "智高提供的積木方塊。Blocks provided by Gigo。",
     "license": "MIT",
     "dependencies": {
@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/sensors-strings.json"
+         "_locales/zh-cn/sensors-strings.json",
+        "_locales/zh-tw/sensors-strings.json",
+        "_locales/el/sensors-strings.json"
     ],
     "public": true
 }

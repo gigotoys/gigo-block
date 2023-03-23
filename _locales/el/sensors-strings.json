@@ -1,0 +1,5 @@
+{
+    "sensors|block": "Κινητήρες",
+    "sensors.DDMmotor|block": "Έλεγχος φοράς κινητήρα. Pin  %McontrolPin| Φορά περιστροφής (0 ή 1) %McontrolValue|Έλεγχος Ταχύτητας κινητήρα. Pin %MSpeedPin|Ταχύτητα κινητήρα (0~255) %MSpeedValue"
+
+}
